@@ -1,0 +1,10 @@
+const accountId=16643
+let accountEmail="gdetxhsb@gmail.com"
+var accountPassword="2664"
+accountCity="jaipur"
+let accountState
+//accountId=2//not allowed
+console.log(accountId);
+accountEmail="4876"
+accountCity="madhya"
+console.table([accountEmail,accountCity,accountState])
